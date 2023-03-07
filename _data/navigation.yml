@@ -5,3 +5,5 @@ main:
     url: /forugs/
   - title: "About"
     url: /about/
+  - title: "Welsh"
+    url: https://enginmakers.github.io/homepage_welsh/
