@@ -5,6 +5,8 @@ title: "For Teachers"
 
 You can download the full 'delivery packs' for the two activities we created here, and we'd love to hear from you if you try any of these ideas out during your classes!
 
+{% include youtube.html id="7KSLa-m1GlM" %}
+
 ### Pack 1
 
 The activity in this pack involves exploring use of the micro:bit accelerometer to use as a 'step-counter'. Data are streamed from a remote micro:bit (in the pupil's pocket) to the connected micro:bit - allowing real-time view of the data as the steps are taken.
