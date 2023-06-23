@@ -19,6 +19,15 @@ The activity in this pack involves exploring use of the micro:bit accelerometer 
 
 [Download Pack 1 here in Welsh](../teacherpacks/ENGINmakers_TeacherPack1_Welsh.zip)
 
+
+And here are the direct links to the MakeCode that is used in this pack:
+
+[http://bit.ly/microtransmit](http://bit.ly/microtransmit)
+
+[http://bit.ly/microreceive](http://bit.ly/microreceive)
+
+[http://bit.ly/microcounter](http://bit.ly/microcounter)
+
 ### Pack 2
 
 The activity in this pack involves using the 'pitch' and 'roll' variables derived from the micro:bit accelerometer to create an analog remote controller for a robot buggy. This does also requires having access to a robot buggy (it can be of almost any kind that is micro:bit compatible - code would need adaption to robots other than the Robo:bit Mk1, but please just contact [gallichand@cardiff.ac.uk](mailto:gallichand@cardiff.ac.uk).
@@ -29,4 +38,8 @@ The activity in this pack involves using the 'pitch' and 'roll' variables derive
 
 [Download Pack 2 here in Welsh](../teacherpacks/ENGINmakers_TeacherPack2_Welsh.zip)
 
+And here are the direct links to the MakeCode that is used in this pack:
+
+
+[https://bit.ly/microbitBrain](https://bit.ly/microbitBrain)
 
