@@ -22,11 +22,9 @@ The activity in this pack involves exploring use of the micro:bit accelerometer 
 
 And here are the direct links to the MakeCode that is used in this pack:
 
-Code for the transmitter: [http://bit.ly/microtransmit](http://bit.ly/microtransmit)
-
-Code for the receiver: [http://bit.ly/microreceive](http://bit.ly/microreceive)
-
-Updated code for the receiver to include step counter: [http://bit.ly/microcounter](http://bit.ly/microcounter)
+- Code for the transmitter: [http://bit.ly/microtransmit](http://bit.ly/microtransmit)
+- Code for the receiver: [http://bit.ly/microreceive](http://bit.ly/microreceive)
+- Updated code for the receiver to include step counter: [http://bit.ly/microcounter](http://bit.ly/microcounter)
 
 ### Pack 2
 
@@ -42,9 +40,7 @@ And here are the direct links to the MakeCode that is used in this pack:
 
 The 'brain' code that goes on the robot: [https://bit.ly/microbitBrain](https://bit.ly/microbitBrain)
 
-Example of controlling the robot with simple 'digital' commands: [https://bit.ly/digitalExample](https://bit.ly/digitalExample)
-
-Example of analgy controller that just moves forwards and backwards: [https://bit.ly/analogExample](https://bit.ly/analogExample)
-
-Example of the complete controller, including 'Grabber' control: [https://bit.ly/analogExampleComplete](https://bit.ly/analogExampleComplete)
+- Example of controlling the robot with simple 'digital' commands: [https://bit.ly/digitalExample](https://bit.ly/digitalExample)
+- Example of analgy controller that just moves forwards and backwards: [https://bit.ly/analogExample](https://bit.ly/analogExample)
+- Example of the complete controller, including 'Grabber' control: [https://bit.ly/analogExampleComplete](https://bit.ly/analogExampleComplete)
 
