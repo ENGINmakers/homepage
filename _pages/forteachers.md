@@ -5,9 +5,9 @@ title: "For Teachers"
 
 You can download the full 'delivery packs' for the two activities we created here, and we'd love to hear from you if you try any of these ideas out during your classes!
 
-{% include youtube.html id="7KSLa-m1GlM" %}
-
 ### Pack 1
+
+{% include youtube.html id="7KSLa-m1GlM" %}
 
 The activity in this pack involves exploring use of the micro:bit accelerometer to use as a 'step-counter'. Data are streamed from a remote micro:bit (in the pupil's pocket) to the connected micro:bit - allowing real-time view of the data as the steps are taken.
 
@@ -26,6 +26,8 @@ And here are the direct links to the MakeCode that is used in this pack:
 - Updated code for the receiver to include step counter: [http://bit.ly/microcounter](http://bit.ly/microcounter)
 
 ### Pack 2
+
+{% include youtube.html id="fxKwe_1s1LA" %}
 
 The activity in this pack involves using the 'pitch' and 'roll' variables derived from the micro:bit accelerometer to create an analog remote controller for a robot buggy. This does also requires having access to a robot buggy (it can be of almost any kind that is micro:bit compatible - code would need adaption to robots other than the Robo:bit Mk1, but please just contact [gallichand@cardiff.ac.uk](mailto:gallichand@cardiff.ac.uk).
 
